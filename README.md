@@ -34,6 +34,7 @@ Este proyecto fue diseñado siguiendo los principios **SOLID**:
 
 ##  Estructura del proyecto
 
+```
 src/
 │
 ├── CONSOLE/
@@ -51,6 +52,7 @@ src/
 ├── INTERFACES/
 │ ├── ITaskManager.java ← Interfaz para gestión de tareas
 │ └── ITaskPrinter.java ← Interfaz para impresión de tareas
+```
 
 ## Vista previa del Menu Principal
 
@@ -66,6 +68,9 @@ src/
 0. Salir
 Seleccione una opción:
 
+## Compilación y Ejecución
+Se realizo en JDK 21.
+
 ## Autor
 
-Desarrollado por Alejandro Ernesto Juarez Argumedo - Estudiante de Java Developer 21
+Desarrollado por Alejandro Ernesto Juarez Argumedo - Estudiante de Java Developer 21.
