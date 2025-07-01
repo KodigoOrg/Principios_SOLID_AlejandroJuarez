@@ -1,5 +1,3 @@
-# Principios_SOLID_AlejandroJuarez
-
 # TaskManagerSOLID in Console App
 
 Una aplicación de consola desarrollada en Java que permite gestionar tareas, usuarios y proyectos. Implementa principios sólidos de diseño orientado a objetos (SOLID) para lograr un código limpio, modular y fácil de mantener.
