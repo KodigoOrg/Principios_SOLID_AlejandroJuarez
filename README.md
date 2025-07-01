@@ -56,6 +56,7 @@ src/
 
 ## Vista previa del Menu Principal
 
+```
 ----------MENÚ PRINCIPAL----------
 1. Crear usuario
 2. Crear proyecto
@@ -67,6 +68,11 @@ src/
 8. Marcar tarea como completada
 0. Salir
 Seleccione una opción:
+```
+
+## Pruebas y Depuración
+
+Se realizaron diferentes pruebas con las opciones del proyecto, estas estan anexas en el documento pdf anexado a la tarea en Moodle.
 
 ## Compilación y Ejecución
 Se realizo en JDK 21.
